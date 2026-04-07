@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<h1 align="center">Hello, World! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Skull.png" alt="Skull" width="35" height="35" /> </h1>
+<h1 align="center">Hello, World! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Skull.png" alt="Skull" width="40" height="40" /></h1>
 
 ###
 
@@ -54,13 +54,13 @@
 
 <div align="left">
   <a href="https://discord.com/users/1041723805011288104" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="40" alt="discord logo"  />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
-
 
 ###
 
