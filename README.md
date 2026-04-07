@@ -14,8 +14,6 @@
 
 <br clear="both">
 
-<img align="right" height="250" src="https://private-user-images.githubusercontent.com/99337968/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU1NDcyNDcsIm5iZiI6MTc3NTU0Njk0NywicGF0aCI6Ii85OTMzNzk2OC8zMTM0NTA0NjQtMmJkMDU0MjItM2EzYi00ZDdjLTk0YTEtN2NkYjU4NGMwOWQ3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDA3VDA3MjkwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxY2M5NWViZjViNmViOTYxNDczYmIyMTJiOTI1MDdjYzQwOGU1ZDdmNTkwZDY5YmIxMGRhYTk5NzVjOWJmMTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wDocxrU7cWPSxHPm9e0h0HcuFCiJqVOacmYLHwfA0jA"  />
-
 ###
 
 <p align="left">I am a software and cybersecurity engineer ⚡🔐, fueled by the thrill of decoding and mastering complex systems 🌌. I craft precise, resilient code 💻✨, expose hidden vulnerabilities 🕵️‍♂️💀, and fortify digital landscapes 🛡️💥. Always diving into new technologies 🚀🔧, I transform ideas into innovative, high-impact solutions 🔮🛠️ — leaving every system I touch sharper, smarter, and more secure.</p>
@@ -64,11 +62,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zyxoxin/zyxoxin/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zyxoxin/zyxoxin/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zyxoxin/zyxoxin/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
