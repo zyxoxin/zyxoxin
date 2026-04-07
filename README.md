@@ -80,7 +80,7 @@
 
 ###
 
-<h6 align="center">Created With <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> By Zyxoxin @ 2026</h6>
+<h6 align="center">Created With <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> By Zyxoxin</h6>
 
 ###
 
